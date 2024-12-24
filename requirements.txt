@@ -1,0 +1,5 @@
+black
+sqlalchemy
+PyQt6
+pyqt6-tools
+python-dateutil
